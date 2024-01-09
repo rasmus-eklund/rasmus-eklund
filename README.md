@@ -2,7 +2,7 @@
 
 ### About Me:
 - Full-stack web developer
-- In my free time, I like to cook, drink beer and take care of my family.
+- In my free time, I like to cook food and take care of my family.
 
 ### Tech i like the most:
 <div style="display: flex background-color: black;">
