@@ -1,5 +1,7 @@
 ### Welcome to my profile
 
+<a href="https://rasmus-eklund.github.io/portfolio/">My portfolio</a>
+
 ### About Me:
 - Full-stack web developer
 - In my free time, I like to cook food and take care of my family.
